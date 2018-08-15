@@ -39,7 +39,7 @@
   
 ```
 ​        //初始化请求参数
-     MicropayRequest micropayRequest = new MicropayRequest();
+        MicropayRequest micropayRequest = new MicropayRequest();
 ​        micropayRequest.setAppid("testAppid");
 ​        micropayRequest.setTotal_amount(1);
 ​        micropayRequest.setOut_trade_no("201806141041249892319734292415015172020264");
